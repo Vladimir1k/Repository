@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev2 codding
+=======
+dev1 codding
+>>>>>>> fea7bee86fe3cf43907dfe83cde2ed12e3c9da53
